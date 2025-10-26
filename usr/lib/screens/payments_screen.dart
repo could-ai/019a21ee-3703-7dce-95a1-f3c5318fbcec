@@ -56,7 +56,7 @@ class PaymentsScreen extends StatelessWidget {
             onTap: () {},
           ),
           _PaymentOption(
-            icon: Icons.insurance,
+            icon: Icons.shield,
             title: 'Insurance',
             subtitle: 'Life & health insurance',
             onTap: () {},
